@@ -12,9 +12,11 @@ public class Program {
         IO.println(Benchmark.run(
                 "Linear Search",
                 () -> LinearSearch.search(original, 754_499)));
+        // Execution Time: 2.087 ms
 
         IO.println(Benchmark.run(
                 "Binary Search",
                 () -> BinarySearch.search(original, 754_499)));
+        // Execution Time: 0.182 ms
     }
 }
