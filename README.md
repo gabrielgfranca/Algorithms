@@ -1,7 +1,9 @@
 # Algorithms
 A Java project focused on implementing algorithms and data structures from scratch. 
-This repository documents my learning journey through computer science fundamentals, with studies primarily based 
-on *Grokking Algorithms* by Aditya Y. Bhargava and *Grokking Data Structures* by Marcello La Rocca.
+The implementations follow the source material as closely as possible, with adaptations made only when required 
+by differences between programming languages, while preserving the original algorithmic concepts. 
+This repository documents my learning journey through computer science fundamentals, with studies primarily 
+based on *Grokking Algorithms by Aditya Y. Bhargava* and *Grokking Data Structures by Marcello La Rocca*.
 
 ## Project Structure
 ```text
